@@ -10,7 +10,6 @@ int main(){
         printf("Nao existe esse quantidade!\n");
     }
 
-
     int idade[qtd_alunos];
 
     for(int i = 0; i < qtd_alunos; i++){
